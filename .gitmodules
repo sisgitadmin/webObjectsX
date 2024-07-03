@@ -1,0 +1,3 @@
+[submodule "AAS"]
+	path = AAS
+	url = https://github.com/sisgitadmin/webObjectsX-AAS.git
